@@ -20,7 +20,7 @@ export default function ProductDetail() {
           {/* Header */}
           <div className="space-y-4">
             <h2 className="serif text-4xl md:text-5xl text-[#1a1a1a]">
-              Alpinaia
+              Alpiniaa
             </h2>
             <p className="text-[#40b0b0] font-medium tracking-wide">
               Still Water • 500ml

@@ -31,7 +31,7 @@ export default function Hero() {
           transition={{ duration: 1, delay: 0.2 }}
           className="serif text-6xl md:text-8xl lg:text-9xl font-light tracking-tighter leading-none mb-8 text-[#1a1a1a]"
         >
-          Alpinaia
+          Alpiniaa
         </motion.h1>
 
         <motion.div

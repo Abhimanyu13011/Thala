@@ -3,7 +3,7 @@ import { motion } from "motion/react";
 const products = [
   {
     id: 1,
-    title: "Alpinaia",
+    title: "Alpiniaa",
     description: "Still Water • 500ml",
     selected: true,
   },
@@ -80,7 +80,7 @@ export default function Products() {
               
               <div className="aspect-[4/3] overflow-hidden p-4">
                 <img
-                  src="https://picsum.photos/seed/alpinaia-heritage/800/600"
+                  src="https://picsum.photos/seed/alpiniaa-heritage/800/600"
                   alt={product.title}
                   className="w-full h-full object-cover rounded-xl group-hover:scale-105 transition-transform duration-700"
                   referrerPolicy="no-referrer"

@@ -1,7 +1,7 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Features from "./components/Features";
-import WhyAlpinaia from "./components/WhyAlpinaia";
+import WhyAlpiniaa from "./components/WhyAlpiniaa";
 import Sustainability from "./components/Sustainability";
 import Products from "./components/Products";
 import ProductDetail from "./components/ProductDetail";
@@ -13,7 +13,7 @@ export default function App() {
       <Navbar />
       <Hero />
       <Features />
-      <WhyAlpinaia />
+      <WhyAlpiniaa />
       <Sustainability />
       <Products />
       <ProductDetail />

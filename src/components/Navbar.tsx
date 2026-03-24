@@ -14,7 +14,7 @@ export default function Navbar() {
           className="flex items-center gap-2"
         >
           <Droplets className="text-[#40b0b0]" size={24} />
-          <span className="serif text-xl font-medium tracking-widest uppercase text-[#1a1a1a]">Alpinaia</span>
+          <span className="serif text-xl font-medium tracking-widest uppercase text-[#1a1a1a]">Alpiniaa</span>
         </motion.div>
 
         {/* Desktop Menu */}

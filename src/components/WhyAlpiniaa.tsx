@@ -27,7 +27,7 @@ const reasons = [
   }
 ];
 
-export default function WhyAlpinaia() {
+export default function WhyAlpiniaa() {
   return (
     <section className="py-24 px-6 bg-[#fcfcf9]">
       <div className="max-w-7xl mx-auto">
@@ -37,7 +37,7 @@ export default function WhyAlpinaia() {
           viewport={{ once: true }}
           className="serif text-4xl md:text-5xl text-[#1a1a1a] text-center mb-20"
         >
-          Why Alpinaia
+          Why Alpiniaa
         </motion.h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
